@@ -1,2 +1,2 @@
-# Simple_Patterns_quesions_CPP
+# Simple_Patterns_questions_CPP
 Simple Patterns questions on while loop.
